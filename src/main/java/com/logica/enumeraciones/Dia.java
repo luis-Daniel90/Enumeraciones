@@ -21,7 +21,6 @@ public enum Dia {
             System.out.println(Dia.DOMINGO);
         }
     }
-
 }
 
 
